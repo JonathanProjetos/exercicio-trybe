@@ -1,0 +1,376 @@
+isso e uma condição a mais que coloquei dentro do arquivo
+isso e outra condição a mais que coloquei dentro do arquivo
+    1  nvm
+    2  nvm install lts/*
+    3  nvm install lts/14
+    4  nvm 14
+    5  nvm install 14
+    6  node
+    7  curl-o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    8  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    9  nvm
+   10  node
+   11  nvm install 14
+   12  node-v
+   13  nvm
+   14  node
+   15  node-v
+   16  node
+   17  nvm install 14
+   18  50+50
+   19  node
+   20  cd
+   21  cd /
+   22  cd/
+   23  cd ..
+   24  ls
+   25  pwd
+   26  cd jonathan
+   27  pwd
+   28  ls
+   29  cd Dowloads
+   30  cd Downloads
+   31  ls
+   32  cd ..
+   33  Documentos
+   34  ls
+   35  cd Documentos
+   36  ls
+   37  cd Trybe
+   38  ls
+   39  Jogos
+   40  cd Jogos
+   41  touch test.txt
+   42  ls
+   43  mv test.txt Trybe
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd Trybe
+   48  ls
+   49  cd ..
+   50  cd Jogos
+   51  ls
+   52  mv trybe test.txt
+   53  mv trybe test
+   54  mv Trybe test.txt
+   55  mv Trybe /Documentos
+   56  mv Trybe /Jogos
+   57  mv Trybe Jogos/Trybe
+   58  mv teste.txt Jogos/Trybe
+   59  mv test.txt Jogos/Trybe
+   60  mv test.txt /Jogos
+   61  mv test.txt Jogos/Trybe
+   62  mv test.txt Jogos
+   63  mv Jogos test.txt
+   64  test.txt /Coisasaleatórias
+   65  mv test.txt /Coisasaleatórias
+   66  whatis test.txt
+   67  man mv
+   68  mv test.txt...Jogos
+   69  mv test.txt.../Jogos
+   70  mv --help
+   71  mv test.txt Jogos 
+   72  mv Jogos test.txt
+   73  mv test.txt Jogos Trybe
+   74  mv test.txt Jogos Documentos
+   75  mv test.txt Jogos jogos
+   76  mv test.txt Jogos Jogos
+   77  cat test.txt
+   78  head test.txt
+   79  tail test.txt
+   80  less test.txt
+   81  head -n 5 test.txt
+   82  ls
+   83  cd Documents
+   84  cd Documentos
+   85  cd Trybe
+   86  cd Jogos
+   87  ls
+   88  mv test.txt.save test2.txt
+   89  ls
+   90  head -n 5 test2.txt
+   91  tail -n 5 test2.txt
+   92  less -n 5 test2.txt
+   93  less test2.txt
+   94  head -n 2 test2.txt
+   95  head -n 10 test2.txt
+   96  head test2.txt
+   97  cat test.txt
+   98  sdsfsfafasf
+   99  less.txt
+  100  less test.txt
+  101  clear
+  102  less test.txt
+  103  grep asf test.txt
+  104  grep ASF test.txt
+  105  grep -i ASF test.txt
+  106  cd -i trybe
+  107  cd Trybe
+  108  cd ..
+  109  ls
+  110  pwd
+  111  cd Jogos
+  112  lls
+  113  ls
+  114  pwd
+  115  mv test.txt /home/jonathan/Documentos/Trybe
+  116  ls
+  117  cd ..
+  118  ls
+  119  mv test.txt /home/jonathan/Documentos/Trybe/Jogos
+  120  ls
+  121  cd Jogos
+  122  ls
+  123  grep -iv 'asf' test.txt
+  124  grep -in 'asf' test.txt
+  125  grep -ic 'asf' test.txt
+  126  wc test.txt
+  127  wc -c test.txt
+  128  pwd
+  129  ls *
+  130  cd ..
+  131  ls *
+  132  pwd
+  133  ls
+  134  cd Trybe
+  135  ls
+  136  cd janeiro
+  137  cd Janeiro
+  138  ls
+  139  cd FundamentosWEb
+  140  cd FundamentosWeb
+  141  cd quarta
+  142  cd Quarta
+  143  ls
+  144  cd Semana1--17-01-2022
+  145  pwd
+  146  cd Quarta
+  147  ls
+  148  touch skills.txt
+  149  head -n 5 skills.txt
+  150  taik -n 4 skills.txt
+  151  tail -n 4 skills.txt
+  152  rm * 'txt'
+  153  mkdir unix_test
+  154  cd unix_test
+  155  url -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  156  curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  157  wget -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  158  cat countries
+  159  gret -iw 'brasil' countries
+  160  grep -iw 'brasil' countries
+  161  grep w 'Brasil' countries
+  162  grep -i 'brasil'
+  163  cd /Documentos/Trybe/Trybe/Janeiro/FundamentosDoDesenvolvimentosWeb/Semana1--17-01-2022/Quarta/unix_test
+  164  ls
+  165  cd Documentos/Trybe/Trybe/Janeiro/FundamentosDoDesenvolvimentosWeb/Semana1--17-01-2022/Quarta/unix_test
+  166  ls
+  167  less countries
+  168  grep Brasil countries
+  169  grep 'Brasil' countries
+  170  grep -r 'Brasil' countries
+  171  ls
+  172  grep -il 'Brasil' countries
+  173  grep in 'brasil' countries.txt
+  174  grep -in 'brasil' countries.txt
+  175  grep -in 'brazil' countries.txt
+  176  pwd
+  177  ls
+  178  cd Documentos
+  179  cd Trybe
+  180* 
+  181  cd Janeiro
+  182  ls
+  183  cd FundamentosWeb
+  184  ls
+  185  cd Semana1--17-01-2022
+  186  cd Quinta
+  187  ls
+  188  cat
+  189  cat > frutas.txt
+  190  cat frutas.txt
+  191  cat >> frutas.txt
+  192  cat frutas.txt
+  193  ls
+  194  cat > cores.txt
+  195  cat frutas.txt cores.txt > lista.txt
+  196  ls
+  197  cat lista.txt
+  198  sort < lista.txt
+  199  sort < cores.txt > coresOrdenadas.txt
+  200  ls
+  201  cat cores.txt
+  202  cat coresOrdenadas.txt
+  203  who
+  204  who | sort
+  205  who | wc -l
+  206  cat > cores1.txt
+  207  cat cores1.txt
+  208  cat > cores1.txt
+  209  cat cores1.txt
+  210  grep a lista.txt | sort
+  211  cat lista.txt
+  212  ls
+  213  ls -l
+  214  cat > arquivo.txt
+  215  ls
+  216  ls -l
+  217  chmod u-rw arquivo.txt
+  218  ls -l
+  219  chmod u+rw arquivo.txt
+  220  ls -l
+  221  chmod u-rw arquivo.txt
+  222  cat arquivo.txt
+  223  chmod u+rw arquivo.txt
+  224  cat arquivo.txt
+  225  ls -l
+  226  cd ~/Documentos/Trybe/Trybe
+  227  ls -l
+  228  PS
+  229  ps
+  230  sleep 5
+  231  sleep 10 &
+  232  sleep 10 & 
+  233  ps
+  234  sleep 10 & 
+  235  sleep 100
+  236  bg
+  237  ps
+  238  sleep 100
+  239  jobs
+  240  fg %1
+  241  fg %2
+  242  jobs
+  243  ps
+  244  sleep 200
+  245  fg %1
+  246  ps
+  247  jobs
+  248  sleep 200 &
+  249  jobs
+  250  ls -l
+  251  ps
+  252  kill %36125
+  253  ps
+  254  kill % 36125
+  255  ps
+  256  sleep 200 &
+  257  ps
+  258  jobs
+  259  sleep 1000 &
+  260  jobs
+  261  ps
+  262  jobs]
+  263  jobs
+  264  kill % 1
+  265  kill % 3
+  266  l -l
+  267  cd Trybe
+  268  Esses valores são permissões com base em bits de ligados = 1 e desligados = 0 ,
+  269  sleep 5
+  270  sleep 10 &
+  271  ps
+  272  sleep 1000
+  273  ps
+  274  sleep 1000
+  275* 
+  276  sleep 1000
+  277  bf
+  278  bg
+  279  jobs]
+  280  jobs
+  281  sleep 1000
+  282  sleep 1000 &
+  283  ps
+  284  fg
+  285  ps
+  286  jobs
+  287  sleep 1000 &
+  288  jobs
+  289  kill % 1
+  290  jobs
+  291  sleep 1000 &
+  292  kill % 1
+  293  jobs
+  294  bg % 1
+  295  bg 1
+  296* 
+  297  jobs
+  298  sleep 1000 &
+  299  jobs
+  300  ps
+  301  jobs
+  302  sleep 2000 &
+  303  jobs
+  304  kill 39959
+  305  jobs
+  306  kill 39883
+  307  jobs
+  308  slpee 1000
+  309  sleep 1000
+  310  fp
+  311  fg
+  312  jobs
+  313  fg % 1
+  314  fg
+  315  jobs
+  316  fp
+  317  ps
+  318  sleep 1000
+  319  sleep 1010 &
+  320  jobs
+  321  kill %2
+  322  jobs
+  323  ps
+  324  kill 40236
+  325  ps
+  326  kill 40236
+  327  ps
+  328  kill -9 40236
+  329  ps
+  330  ls
+  331  cd /Documentos/Trybe/Trybe/Janeiro/FundamentosWeb/Semana1--17-01-2022/Quinta$ 
+  332  cd 
+  333  cd Documentos/Trybe/Trybe/Janeiro/FundamentosWeb/Semana1--17-01-2022/Quinta$
+  334  cd Documentos/Trybe/Trybe/Janeiro/FundamentosWeb/Semana1--17-01-2022/Quinta
+  335  pwd
+  336  cd Janeiro/FundamentosWeb/Semana1--17-01-2022/Quinta
+  337  find
+  338  find .txt
+  339  find . -name ".txt"
+  340  find . -name "*.txt"
+  341  find ./test -nome
+  342  find ./test -arquivo
+  343  find ./test -arquivo.txt
+  344  find ./test -nome "arquivo"
+  345  find ./Quinta -nome "arquivo"
+  346  find ./Quinta -nome "arquivo*"
+  347  find ./Quinta -name "arquivo"
+  348  find ./test -name "arquivo"
+  349  find ./test -name "arquivo.txt"
+  350  find ./Quinta -name "arquivo.txt"
+  351  find ./Quinta -name "arquivo*"
+  352  ls
+  353  cat arquivo.txt
+  354  cat >> arquivo.txt
+  355  cat arquivo.txt
+  356  find ./Quinta -type f -nome "arquivo*"
+  357  find ./Quinta -type f -name "arquivo*"
+  358  find ./Documentos -type f -name "arquivo*"
+  359  history
+  360  history | tail
+  361  history | head
+  362  history | head -n 20
+  363  echo "Olá Mundão"
+  364  echo "isso e uma condição a mais que coloquei dentro do arquivo" > arquivo.txt
+  365  cat arquivo.txt
+  366  echo "isso e outra condição a mais que coloquei dentro do arquivo" >> arquivo.txt
+  367  cat arquivo.txt
+  368  js -l
+  369  ls -l
+  370  chmod o-000 arquivo.txt
+  371  clear
+  372  who
+  373  history
+  374  history | cat >> arquivo.txt
