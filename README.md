@@ -1,3 +1,3 @@
 # Branch Fundamentos
 
-estarei atualizzando a branch conforme a disponibilidade de conteúdo.
+estarei atualizando a branch conforme a disponibilidade de conteúdo.
