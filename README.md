@@ -1,3 +1,3 @@
-# exercicios-trybe
+# Branch Fundamentos
 
-Este diretório está armazenado todos os exercícios feitos por min durante todo o período acadêmico na Trybe.
+estarei atualizzando a branch conforme a disponibilidade de conteúdo.
