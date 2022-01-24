@@ -84,7 +84,7 @@ PROCESSOS
 ps = abre a interface que mostra os processos.
 jobs = mostras os processos em execução.
 & =  após definir o nome do processo e valor "&" coloca o processo em background e recebe uma posição e id 
-fg %= comando para reiniciar o processo após o % + 1 para identificar a posição do processo. 
+fg % = comando para reiniciar o processo após o % + 1 para identificar a posição do processo. 
 CRTL+C = durante a execução do processo fora do background ele suspende o processo. 
 bg = continua rodando o processo."tira do momento suspenso"
 CTRL+Z = durante a execução do processo fora do background ele coloca o processo em parado.

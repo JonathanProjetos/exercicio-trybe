@@ -48,6 +48,6 @@ xclip -sel clip < canho do arquivo = ele copia os dados de dentro do arquivo par
 main =  projeto principal
 guit branch = remove o item que está sendo trabalhado.
 guit log = mostra o resumo do que ja foi feito.
-guit commit -m = sobe os arquivo para a main.
+guit commit -m = realiza uma mensagem referente ao que foi feito.
 
 */
