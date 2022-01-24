@@ -1,5 +1,8 @@
+trybe-skills-changes
 *unix
 *bash
 *git
 *HTML
 *React
+*JavaScript
+trybe-skills-update
