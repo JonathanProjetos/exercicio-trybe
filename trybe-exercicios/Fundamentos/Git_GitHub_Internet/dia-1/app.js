@@ -50,4 +50,15 @@ guit branch = remove o item que está sendo trabalhado.
 guit log = mostra o resumo do que ja foi feito.
 guit commit -m = realiza uma mensagem referente ao que foi feito.
 
+Ao testar sua conexão, você precisará autenticar essa ação usando sua senha, que é a senha da chave SSH que você criou anteriormente. Para obter mais informações sobre como trabalhar com senhas de chave SSH, consulte "Trabalhando com senhas de chave SSH" .
+
+Terminal aberto .
+
+Digite o seguinte:
+
+$ ssh -T git@github.com
+Aparecer a informação de como está a conexão com a chave ssh.
+
+texto esperado e "Hi username! You've successfully authenticated, but GitHub does not provide shell access."
+
 */
