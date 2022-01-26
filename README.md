@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trybe
 ​
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Jonathan Santos enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
@@ -277,3 +278,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 38-3: _[Projeto - TING - Trybe Is Not Google]()_
 ​
 # [...]
+=======
+# Branch Fundamentos
+
+estarei atualizando a branch conforme a disponibilidade de conteúdo.
+>>>>>>> 3ae1e34a9960267c643c327f6714d9d8bd8d076b
